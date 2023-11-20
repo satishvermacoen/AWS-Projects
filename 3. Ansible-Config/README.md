@@ -755,9 +755,18 @@ node2   172.31.0.78
 
 ```
 
+## Ad-hoc Commands and Modules
+Troubleshooting-https://docs.ansible.com/ansible/latest/installation_guide/intro_configuration.html
+## Ad-hoc Examples
 
+```bash 
+    ansible all -a "cat file "
+```
 
-
+## Modules Examples
+```bash
+    ansible demo -b -m yum -a "pkg=nginix state=present"
+```
 
 -------------------------------
 Troubleshoot:
