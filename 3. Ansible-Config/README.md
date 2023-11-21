@@ -9,13 +9,13 @@ In this Project, deploy and Configure an EC2 instance as an Ansible server and 2
 3. Post config- Ansible and its dependencies.
 
 #### Overview
-![Overview]()
+![Overview](https://github.com/satishvermacoen/AWS-Projects/blob/main/3.%20Ansible-Config/img/3.ansible.png)
 
 ### Configuration on AWS Console Portal and Instance Launch.
 
 1. Login to console.
 Launch EC2-Instance and fill required configuration for EC2 provision.
-![App Screenshot]()
+![App Screenshot](https://github.com/satishvermacoen/AWS-Projects/blob/main/3.%20Ansible-Config/img/Screenshot%20(55).png)
 
 2. To launch 3 instance with use of bash script without public-ip
 
